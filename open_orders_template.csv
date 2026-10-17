@@ -1,0 +1,3 @@
+order_id,part,quantity,due_date,route,priority,release_time
+WO2001,Shaft-A,40,2026-11-12 18:00,TURNING > MILLING,Normal,
+WO2002,Flange-B,120,2026-11-10 14:00,MILLING > TURNING > MILLING,Urgent,2026-11-03 08:00

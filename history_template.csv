@@ -1,0 +1,3 @@
+order_id,sequence,machine_type,machine_id,part,quantity,run_minutes,start_time,end_time,planned_minutes,due_date,priority
+WO1001,1,TURNING,LATHE-1,Shaft-A,50,184,2026-06-01 06:10,2026-06-01 09:14,170,2026-06-05 18:00,Normal
+WO1001,2,MILLING,MILL-1,Shaft-A,50,95,2026-06-01 10:02,2026-06-01 11:37,90,2026-06-05 18:00,Normal
